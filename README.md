@@ -6,7 +6,7 @@ entrada B: 10000
 
 sel: 00 
 
-!(Capturar.PNG)
+![](Capturar.PNG)
 
 ![][image2]
 
